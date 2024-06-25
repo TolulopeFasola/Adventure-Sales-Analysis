@@ -43,4 +43,4 @@ Power Bi : Data cleaning (Data query). Data Analysis and visualization and Repor
 
 ## Conclusion
 
-In summary, the analysis indicates that focusing on top-selling products like the Mountain 200 Black 46 and profitable categories like road bikes, along with targeted marketing to skilled manual workers, married females, and the 46-55 age group, could enhance sales. Geographically, the United States and Australia should remain primary targets due to their significant sales and profit contributions.
+The analysis indicates that focusing on top-selling products like the Mountain 200 Black 46 and profitable categories like road bikes, along with targeted marketing to skilled manual workers, married females, and the 46-55 age group, could enhance sales. Geographically, the United States and Australia should remain primary targets due to their significant sales and profit contributions.
